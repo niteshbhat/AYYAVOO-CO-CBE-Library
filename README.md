@@ -10,4 +10,6 @@ AYYAVOO&amp;CO CBE Library Management System
 4) Click on localhost, though, and you'll see the page as above(2) : (Localhost just refers to the server running on your own computer. Another way to refer to your server is by using the IP address 127.0.0.1.)
 5) If you saw the above page, then congratulations! Your PHP server is up and running, and you can make a start scripting PHP pages.
 ````
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+`````
+## Application installation Guide
+`````
