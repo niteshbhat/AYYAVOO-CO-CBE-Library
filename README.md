@@ -13,5 +13,5 @@ AYYAVOO&amp;CO CBE Library Management System
 `````
 ## Application installation Guide
 `````
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/lyx0FH64fjk)
+[![Watch the video](https://upload.wikimedia.org/wikipedia/commons/2/2f/WampServer_Version_2.5.PNG)](https://youtu.be/lyx0FH64fjk)
 
