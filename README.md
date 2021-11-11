@@ -12,5 +12,5 @@ AYYAVOO&amp;CO CBE Library Management System
 ````
 `````
 ## Application installation Guide
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/lyx0FH64fjk)
 `````
